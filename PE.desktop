@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PyEncrypter
+Comment=Encrypt and Decrypt words
+Exec=PyEncrypter
+Icon=PE
+Terminal=false
+Type=Application
+Categories=Utility;
+Name[en_IN]=PyEncrypter
