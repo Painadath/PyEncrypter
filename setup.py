@@ -1,12 +1,15 @@
-from distutils.core import setup
-
+from setuptools import setup
+params = {}
+params['scripts'] = ['bin/PyEncrypter']
 setup(name='PyEncrypter',
-      version='2021.02.14',
+      version='1',
       description='Convert Numbers',
       author='Painadath ',
-      scripts=['bin/PyEncrypter'],
+      packages=['lib'],
       data_files=[
         ('share/pixmaps', ['data/PE.png']),
+        ('share/pixmaps', ['data/Button.png']),
         ('share/applications', ['data/PE.desktop'])
         ],
+      **params
  )
