@@ -1,7 +1,4 @@
 # PyEncrypter-
-![Screenshot](screenshot.jpg)
-
-
 A Simple Yet powerfull Word Encrypter with python3
 GUI Powered By GUIZERO
 
@@ -11,14 +8,13 @@ sudo pip install guizero
 
 *tested in python3.6 on linux
 
-will use (.key) format to generate and use keys
+Now added a Extra feature
 
+*You can generate and load PyEncrypter keys(.key)
 
-if you found any bugs report it in the issue page
+*and Encrypt and decrypt with it
 
-
-if you have any designing ideas open a issue for it or contact me on samuelpainadath@gmail.com
-
+If you found any bug kindly report it in issue page
 Currently the setup.py is not supported for windows and Mac 
 Command line version of this project is in the commandline folder
 This was a simple project for learning python3 
