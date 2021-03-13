@@ -16,6 +16,9 @@ will use (.key) format to generate and use keys
 
 if you found any bugs report it in the issue page
 
+
+if you have any designing ideas open a issue for it or contact me on samuelpainadath@gmail.com
+
 Currently the setup.py is not supported for windows and Mac 
 Command line version of this project is in the commandline folder
 This was a simple project for learning python3 
