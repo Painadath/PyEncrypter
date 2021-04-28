@@ -9,10 +9,15 @@ sudo pip install guizero
 *tested in python3.6 on linux
 
 Now added a Extra feature
+
 **INSTALL it**
+
 ``` sudo python3 setup.py install```
+
 **Unistall**
+
 i will do it later
+
 *You can generate and load PyEncrypter keys(.key)
 
 *and Encrypt and decrypt with it
