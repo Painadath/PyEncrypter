@@ -26,5 +26,5 @@ you can also download the standalone executable in the release page if you dont 
 make it executable and run it
 
 If you found any bug kindly report it in issue page
-Currently the setup.py is not supported for windows(Mac is not tested(if you have a mac pc contact me samuelpainadath@gmail.com))
+Currently the setup.py is not supported for windows(Mac is not tested)
 This was a simple project for learning python3 
